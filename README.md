@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lynette Soh Pei Nyuk</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate student from Sabah, Malaysia</h3>
 
 - 🔭 I’m currently studying **Graphic and Multimedia Software at UTM**
 
