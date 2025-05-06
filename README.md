@@ -4,15 +4,22 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lynette-soh">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/Lspn20_">
-    <img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.citypng.com%2Fphoto%2F2162%2Finstagram-red-button-with-white-logo&psig=AOvVaw3CuqqoKtDlJSFIufJYmKjP&ust=1746600058028000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjwpLKejo0DFQAAAAAdAAAAABAE)" />
-  </a>
- <a href="https://x.com/lspnspn">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/X_Logo_2023.svg"/>
-  </a>
+  ## 📱 Social Links:
+<a href="https://www.linkedin.com/in/lynette-soh" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="30" style="filter: invert(19%) sepia(61%) saturate(3394%) hue-rotate(187deg) brightness(94%) contrast(95%); margin-right: 10px;">
+  <span style="font-weight: bold; color: #0A66C2; font-size: 16px;">LinkedIn</span>
+</a><br>
+
+<a href="https://www.instagram.com/Lspn20_" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" height="30" style="filter: invert(29%) sepia(98%) saturate(2296%) hue-rotate(314deg) brightness(98%) contrast(90%); margin-right: 10px;">
+  <span style="font-weight: bold; color: #E4405F; font-size: 16px;">Instagram</span>
+</a><br>
+
+<a href="https://x.com/lspnspn" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" height="30" style="filter: invert(100%) sepia(1%) saturate(12%) hue-rotate(185deg) brightness(100%) contrast(100%); margin-right: 10px;">
+  <span style="font-weight: bold; color: #000000; font-size: 16px;">X (Twitter)</span>
+</a>
+
 </p>
 
 ---
