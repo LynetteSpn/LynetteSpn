@@ -49,7 +49,6 @@
 ### 📌 Pinned Projects (Recommended)
 > Pin these in your GitHub profile after creating/uploading:
 
-- 🎮 **Huminodun Game** – Multimodal AI + VR storytelling game *(Unity, Voice Input, Gesture Control)*  
 - ✨ **3D Blender Art Gallery** – Portfolio of animated 3D scenes  
 - 🖥️ **Exam Scheduling System** – Laravel web system with Google Calendar integration  
 - 📊 **Power BI Dashboard** – Real-world data insights with slicers and interactivity  
