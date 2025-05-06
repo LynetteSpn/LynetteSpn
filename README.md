@@ -4,22 +4,16 @@
 </p>
 
 <p align="center">
-  ## 📱 Social Links:
-<a href="https://www.linkedin.com/in/lynette-soh" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="30" style="filter: invert(19%) sepia(61%) saturate(3394%) hue-rotate(187deg) brightness(94%) contrast(95%); margin-right: 10px;">
-  <span style="font-weight: bold; color: #0A66C2; font-size: 16px;">LinkedIn</span>
-</a><br>
-
-<a href="https://www.instagram.com/Lspn20_" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" height="30" style="filter: invert(29%) sepia(98%) saturate(2296%) hue-rotate(314deg) brightness(98%) contrast(90%); margin-right: 10px;">
-  <span style="font-weight: bold; color: #E4405F; font-size: 16px;">Instagram</span>
-</a><br>
-
-<a href="https://x.com/lspnspn" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" height="30" style="filter: invert(100%) sepia(1%) saturate(12%) hue-rotate(185deg) brightness(100%) contrast(100%); margin-right: 10px;">
-  <span style="font-weight: bold; color: #000000; font-size: 16px;">X (Twitter)</span>
-</a>
-
+  <a href="https://www.linkedin.com/in/lynette-soh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/Lspn20_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://x.com/lspnspn" target="_blank">
+    <img src="https://img.shields.io/badge/X-black?style=flat&logo=x&logoColor=white" alt="X Badge"/>
+  </a>
+</p>
 </p>
 
 ---
