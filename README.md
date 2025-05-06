@@ -7,6 +7,10 @@
   <a href="https://www.linkedin.com/in/lynette-soh">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://www.instagram.com/Lspn20_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+ <a href="https://x.com/lspnspn" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/X_Logo_2023.svg" alt="X (Twitter)" width="40" height="40">
+  </a>
 </p>
 
 ---
