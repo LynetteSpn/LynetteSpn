@@ -58,7 +58,8 @@
 
 ### 🌱 Currently Exploring
 - 🧠 AI-powered NPCs in games  
-- 🌐 Laravel and full-stack development  
+- 🌐 Laravel and full-stack development
+- 🌐 Geographic Information System (specifically roads)
 - 🧩 Game UX and interaction design
 
 ---
