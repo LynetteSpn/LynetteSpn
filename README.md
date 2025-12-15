@@ -47,7 +47,6 @@
 ---
 
 ### 📌 Pinned Projects (Recommended)
-> Pin these in your GitHub profile after creating/uploading:
 
 - ✨ **3D Blender Art Gallery** – Portfolio of animated 3D scenes  
 - 🖥️ **Exam Scheduling System** – Laravel web system with Google Calendar integration  
