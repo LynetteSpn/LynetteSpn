@@ -46,15 +46,6 @@
 
 ---
 
-### 📌 Pinned Projects
-
-- ✨ **3D Blender Art Gallery** – Portfolio of animated 3D scenes  
-- 🖥️ **Exam Scheduling System** – Laravel web system with Google Calendar integration  
-- 📊 **Power BI Dashboard** – Real-world data insights with slicers and interactivity  
-- 👕 **Creative Works Showcase** – Posters, logos, T-shirt designs *(HTML/CSS Portfolio)*
-
----
-
 ### 🌱 Currently Exploring
 - 🧠 AI-powered NPCs in games  
 - 🌐 Laravel and full-stack development
