@@ -46,7 +46,7 @@
 
 ---
 
-### 📌 Pinned Projects (Recommended)
+### 📌 Pinned Projects
 
 - ✨ **3D Blender Art Gallery** – Portfolio of animated 3D scenes  
 - 🖥️ **Exam Scheduling System** – Laravel web system with Google Calendar integration  
