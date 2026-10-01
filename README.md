@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Lynette Soh 👋</h1>
 <p align="center">
-  🎓 Third-year Computer Graphic and Multimedia (software) UTM Student · 💡 Creative Developer · 🎮 Game Design Enthusiast
+  🎓 Computer Graphic and Multimedia (software) UTM Student · 💡 Creative Developer · 🎮 Game Design Enthusiast
 </p>
 
 <p align="center">
