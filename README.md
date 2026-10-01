@@ -20,7 +20,7 @@
 
 ### 🧠 About Me
 - 💻 Skilled in: `Unity`, `Blender`, `C++`, `Java`, `JavaScript`, `Python`, `HTML`, `CSS`, `Laravel`, `Power BI`
-- 🕹️ Currently working on: **Multimodal AI Interaction in Narrative-Driven Gameplay for Huminodun Game (FYP incoming project)**
+- Deigned and built Multimodal AI Interaction in Narrative-Driven Gameplay for Huminodun Game (VR)
 - 📊 Passionate about combining tech with creativity through game design, animation, and data storytelling.
 - ✨ Curious about AR/VR, gamification, and immersive experiences.
 
